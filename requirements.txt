@@ -2,4 +2,6 @@ streamlit
 pandas
 openai
 pillow
+streamlit-autorefresh
+
 
