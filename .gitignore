@@ -33,3 +33,6 @@ Thumbs.db
 # Logs
 # --------------------
 *.log
+
+assets/profile_pics/
+
